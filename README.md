@@ -22,6 +22,7 @@ There is a snack bar that navigates to the edit page. It shows current values an
 - Minor challenges implementing editing experience as dialog won't show on-tap of a pop-up menu item.
 
 ## Appetize Link
+https://appetize.io/app/3gi6xehayyxek4tqgmdfh3hz2a?device=pixel4&osVersion=11.0&scale=75
 
 ## Github Repository
 - https://github.com/HassanTeslim007/cv_app
