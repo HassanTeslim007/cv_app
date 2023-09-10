@@ -14,12 +14,12 @@ class Controller extends ChangeNotifier {
         position: 'Flutter Developer',
         durationInMonths: 4),
     Experience(
-        companyName: 'HNG',
-        position: 'Mobile Developer Intern',
+        companyName: 'HNG Internship',
+        position: 'Mobile Intern',
         durationInMonths: 9),
     Experience(
-        companyName: 'Nupat Technologies',
-        position: 'FlutterDev',
+        companyName: 'NUPAT',
+        position: 'Flutter Developer',
         durationInMonths: 15),
   ];
 
